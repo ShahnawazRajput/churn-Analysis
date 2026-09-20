@@ -244,6 +244,6 @@ The project is designed to demonstrate a practical **Data Analyst workflow**, fr
 
 ## Author
 
-**Shahnawaz Rajput**
+**Shahnawaz Rana**
 
 Data Analyst | Python | SQL | Excel | Data Visualization
